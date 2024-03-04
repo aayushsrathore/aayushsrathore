@@ -18,7 +18,7 @@ I would love to join different communities and competitions that involve creatin
 1. UrbanGuide India🚆 - An App aimed at providing a guide to navigate through the public transportation systems of Indian cities.
 2. Campus Map Delhi University🗺 - Delhi University's own ArcGIS map. 
 
-**Skills:**  
+**Proficiency:**  
 - Java: Proficient
 - Kotlin: Intermediate
 - C++: Proficient
