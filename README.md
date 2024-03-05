@@ -18,18 +18,6 @@ I would love to join different communities and competitions that involve creatin
 1. UrbanGuide India🚆 - An App aimed at providing a guide to navigate through the public transportation systems of Indian cities.
 2. Campus Map Delhi University🗺 - Delhi University's own ArcGIS map. 
 
-**Proficiency:**  
-- Java: Proficient
-- Kotlin: Intermediate
-- C++: Proficient
-- JavaScript: Intermediate
-- Spring Boot: Proficient
-- MongoDB: Intermediate
-- ReactJS: Intermediate
-- SQL: Proficient
-- HTML: Proficient
-- CSS: Proficient
-
 **Learning Goals:**  
 I plan to gain more knowledge in Data Structures and Algorithms by Summer 2024 and then move on the development of hands-on usage application using the acquired knowledge combined with the SpringBoot stack coding experience.
 
